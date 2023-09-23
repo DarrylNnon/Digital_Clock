@@ -1,1 +1,1 @@
-first perasonal project in C
+first personal project in C
